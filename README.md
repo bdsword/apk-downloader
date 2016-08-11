@@ -8,6 +8,20 @@ This script can help you download top selling apps from Google Play Store.
 
 Refer [egirault/googleplay-api](https://github.com/egirault/googleplay-api) for more details.
 
+Briefly,
+
+```bash
+git clone https://github.com/google/protobuf
+cd protobuf
+./autogen.sh
+./configure
+make
+sudo make install
+cd python
+python setup.py build
+sudo python setup.py install
+```
+
 # Init this repo
 
 ```bash
