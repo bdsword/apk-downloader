@@ -16,6 +16,8 @@ git submodule init
 git submodule update
 ```
 
+Then, setup your google account and password/auth-token in **googleplay_api/config.py**.
+
 # Usage
 
 ```bash
